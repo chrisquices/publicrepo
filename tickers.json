@@ -49,15 +49,15 @@
 },
 {
 "ticker": "ABCS",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ABEQ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ABFL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ABHY",
@@ -85,427 +85,427 @@
 },
 {
 "ticker": "ABXB",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACES",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACGR",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACIO",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACLC",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACLO",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACSI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACTV",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACVF",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACVT",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACWI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACWV",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ACWX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ADBG",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ADFI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ADIV",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ADME",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ADPV",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ADVE",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AESR",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AETH",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFIF",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFIX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFK",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFLG",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFMC",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFSC",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AFSM",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGEM",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGG",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGGA",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGGH",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGGS",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGGY",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGIH",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGIX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGMI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGNG",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGOX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGQI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGRH",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGRW",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGZ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AGZD",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AHLT",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AHYB",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIA",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIBD",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIBU",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIEQ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIFD",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AINP",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIPI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIQ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIRL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIRR",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIS",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIVC",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIVI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AIVL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AJAN",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AJUL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ALAI",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ALIL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ALLW",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ALTL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ALTY",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMAX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMDD",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMDG",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMDL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMID",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMLP",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMOM",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMUU",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMZA",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMZD",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMZP",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMZU",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMZW",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AMZZ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ANEW",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ANGL",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOA",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOCT",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOHY",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOK",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOM",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOR",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AOTG",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APCB",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APED",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APIE",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APLU",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APMU",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APOC",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APPX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APRH",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APRJ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APRP",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APRZ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APUE",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "APXM",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AQLT",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AQWA",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ARB",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ARBKL",
