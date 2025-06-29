@@ -13,43 +13,39 @@
 },
 {
 "ticker": "AAPB",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAPD",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAPR",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAPU",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAPW",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAPX",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAPY",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAVM",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "AAXJ",
-"historyExists": false
-},
-{
-"ticker": "AAXJ",
-"historyExists": false
+"historyExists": true
 },
 {
 "ticker": "ABCS",
@@ -100,23 +96,7 @@
 "historyExists": false
 },
 {
-"ticker": "ACGR",
-"historyExists": false
-},
-{
-"ticker": "ACGR",
-"historyExists": false
-},
-{
 "ticker": "ACIO",
-"historyExists": false
-},
-{
-"ticker": "ACLC",
-"historyExists": false
-},
-{
-"ticker": "ACLC",
 "historyExists": false
 },
 {
@@ -256,10 +236,6 @@
 "historyExists": false
 },
 {
-"ticker": "AGNG",
-"historyExists": false
-},
-{
 "ticker": "AGOX",
 "historyExists": false
 },
@@ -337,10 +313,6 @@
 },
 {
 "ticker": "AIVC",
-"historyExists": false
-},
-{
-"ticker": "AIVI",
 "historyExists": false
 },
 {
@@ -444,14 +416,6 @@
 "historyExists": false
 },
 {
-"ticker": "ANGL",
-"historyExists": false
-},
-{
-"ticker": "AOA",
-"historyExists": false
-},
-{
 "ticker": "AOA",
 "historyExists": false
 },
@@ -468,15 +432,7 @@
 "historyExists": false
 },
 {
-"ticker": "AOK",
-"historyExists": false
-},
-{
 "ticker": "AOM",
-"historyExists": false
-},
-{
-"ticker": "AOR",
 "historyExists": false
 },
 {
@@ -572,10 +528,6 @@
 "historyExists": false
 },
 {
-"ticker": "ARGT",
-"historyExists": false
-},
-{
 "ticker": "ARKA",
 "historyExists": false
 },
@@ -612,10 +564,6 @@
 "historyExists": false
 },
 {
-"ticker": "ARKX",
-"historyExists": false
-},
-{
 "ticker": "ARKZ",
 "historyExists": false
 },
@@ -641,10 +589,6 @@
 },
 {
 "ticker": "ARVR",
-"historyExists": false
-},
-{
-"ticker": "ASEA",
 "historyExists": false
 },
 {
@@ -693,10 +637,6 @@
 },
 {
 "ticker": "ATLCZ",
-"historyExists": false
-},
-{
-"ticker": "ATMP",
 "historyExists": false
 },
 {
@@ -1292,10 +1232,6 @@
 "historyExists": false
 },
 {
-"ticker": "BIZD",
-"historyExists": false
-},
-{
 "ticker": "BJAN",
 "historyExists": false
 },
@@ -1500,10 +1436,6 @@
 "historyExists": false
 },
 {
-"ticker": "BNOV",
-"historyExists": false
-},
-{
 "ticker": "BOAT",
 "historyExists": false
 },
@@ -1525,10 +1457,6 @@
 },
 {
 "ticker": "BOEU",
-"historyExists": false
-},
-{
-"ticker": "BOND",
 "historyExists": false
 },
 {
@@ -1653,10 +1581,6 @@
 },
 {
 "ticker": "BSCZ",
-"historyExists": false
-},
-{
-"ticker": "BSEP",
 "historyExists": false
 },
 {
@@ -1920,15 +1844,7 @@
 "historyExists": false
 },
 {
-"ticker": "BWX",
-"historyExists": false
-},
-{
 "ticker": "BWZ",
-"historyExists": false
-},
-{
-"ticker": "BYLD",
 "historyExists": false
 },
 {
@@ -2016,10 +1932,6 @@
 "historyExists": false
 },
 {
-"ticker": "CATH",
-"historyExists": false
-},
-{
 "ticker": "CBLS",
 "historyExists": false
 },
@@ -2092,19 +2004,11 @@
 "historyExists": false
 },
 {
-"ticker": "CDC",
-"historyExists": false
-},
-{
 "ticker": "CDEI",
 "historyExists": false
 },
 {
 "ticker": "CDL",
-"historyExists": false
-},
-{
-"ticker": "CDX",
 "historyExists": false
 },
 {
@@ -2300,10 +2204,6 @@
 "historyExists": false
 },
 {
-"ticker": "CLOA",
-"historyExists": false
-},
-{
 "ticker": "CLOB",
 "historyExists": false
 },
@@ -2340,10 +2240,6 @@
 "historyExists": false
 },
 {
-"ticker": "CMBS",
-"historyExists": false
-},
-{
 "ticker": "CMCI",
 "historyExists": false
 },
@@ -2353,10 +2249,6 @@
 },
 {
 "ticker": "CMDY",
-"historyExists": false
-},
-{
-"ticker": "CMF",
 "historyExists": false
 },
 {
@@ -2484,10 +2376,6 @@
 "historyExists": false
 },
 {
-"ticker": "CPLB",
-"historyExists": false
-},
-{
 "ticker": "CPLS",
 "historyExists": false
 },
@@ -2588,10 +2476,6 @@
 "historyExists": false
 },
 {
-"ticker": "CRAK",
-"historyExists": false
-},
-{
 "ticker": "CRBN",
 "historyExists": false
 },
@@ -2624,10 +2508,6 @@
 "historyExists": false
 },
 {
-"ticker": "CSB",
-"historyExists": false
-},
-{
 "ticker": "CSD",
 "historyExists": false
 },
@@ -2637,10 +2517,6 @@
 },
 {
 "ticker": "CSHP",
-"historyExists": false
-},
-{
-"ticker": "CSM",
 "historyExists": false
 },
 {
@@ -2792,10 +2668,6 @@
 "historyExists": false
 },
 {
-"ticker": "DAUG",
-"historyExists": false
-},
-{
 "ticker": "DAX",
 "historyExists": false
 },
@@ -2804,19 +2676,7 @@
 "historyExists": false
 },
 {
-"ticker": "DBAW",
-"historyExists": false
-},
-{
 "ticker": "DBEF",
-"historyExists": false
-},
-{
-"ticker": "DBEM",
-"historyExists": false
-},
-{
-"ticker": "DBEM",
 "historyExists": false
 },
 {
@@ -2908,14 +2768,6 @@
 "historyExists": false
 },
 {
-"ticker": "DEEP",
-"historyExists": false
-},
-{
-"ticker": "DEEP",
-"historyExists": false
-},
-{
 "ticker": "DEF",
 "historyExists": false
 },
@@ -2925,10 +2777,6 @@
 },
 {
 "ticker": "DEHP",
-"historyExists": false
-},
-{
-"ticker": "DEM",
 "historyExists": false
 },
 {
@@ -3164,10 +3012,6 @@
 "historyExists": false
 },
 {
-"ticker": "DIA",
-"historyExists": false
-},
-{
 "ticker": "DIAL",
 "historyExists": false
 },
@@ -3181,10 +3025,6 @@
 },
 {
 "ticker": "DIHP",
-"historyExists": false
-},
-{
-"ticker": "DIM",
 "historyExists": false
 },
 {
@@ -3268,19 +3108,11 @@
 "historyExists": false
 },
 {
-"ticker": "DJUN",
-"historyExists": false
-},
-{
 "ticker": "DLLL",
 "historyExists": false
 },
 {
 "ticker": "DLN",
-"historyExists": false
-},
-{
-"ticker": "DLS",
 "historyExists": false
 },
 {
@@ -3376,10 +3208,6 @@
 "historyExists": false
 },
 {
-"ticker": "DRN",
-"historyExists": false
-},
-{
 "ticker": "DRSK",
 "historyExists": false
 },
@@ -3460,10 +3288,6 @@
 "historyExists": false
 },
 {
-"ticker": "DUKH",
-"historyExists": false
-},
-{
 "ticker": "DUKQ",
 "historyExists": false
 },
@@ -3521,14 +3345,6 @@
 },
 {
 "ticker": "DVSP",
-"historyExists": false
-},
-{
-"ticker": "DVY",
-"historyExists": false
-},
-{
-"ticker": "DVY",
 "historyExists": false
 },
 {
@@ -3820,10 +3636,6 @@
 "historyExists": false
 },
 {
-"ticker": "EFAV",
-"historyExists": false
-},
-{
 "ticker": "EFAX",
 "historyExists": false
 },
@@ -3952,10 +3764,6 @@
 "historyExists": false
 },
 {
-"ticker": "EMB",
-"historyExists": false
-},
-{
 "ticker": "EMBD",
 "historyExists": false
 },
@@ -4072,10 +3880,6 @@
 "historyExists": false
 },
 {
-"ticker": "ENFR",
-"historyExists": false
-},
-{
 "ticker": "ENOR",
 "historyExists": false
 },
@@ -4105,10 +3909,6 @@
 },
 {
 "ticker": "EPMV",
-"historyExists": false
-},
-{
-"ticker": "EPOL",
 "historyExists": false
 },
 {
@@ -4380,10 +4180,6 @@
 "historyExists": false
 },
 {
-"ticker": "EWG",
-"historyExists": false
-},
-{
 "ticker": "EWH",
 "historyExists": false
 },
@@ -4424,10 +4220,6 @@
 "historyExists": false
 },
 {
-"ticker": "EWP",
-"historyExists": false
-},
-{
 "ticker": "EWQ",
 "historyExists": false
 },
@@ -4441,10 +4233,6 @@
 },
 {
 "ticker": "EWU",
-"historyExists": false
-},
-{
-"ticker": "EWUS",
 "historyExists": false
 },
 {
@@ -4580,10 +4368,6 @@
 "historyExists": false
 },
 {
-"ticker": "FBND",
-"historyExists": false
-},
-{
 "ticker": "FBOT",
 "historyExists": false
 },
@@ -4597,10 +4381,6 @@
 },
 {
 "ticker": "FBUF",
-"historyExists": false
-},
-{
-"ticker": "FBZ",
 "historyExists": false
 },
 {
@@ -4625,10 +4405,6 @@
 },
 {
 "ticker": "FCFY",
-"historyExists": false
-},
-{
-"ticker": "FCG",
 "historyExists": false
 },
 {
@@ -4717,10 +4493,6 @@
 },
 {
 "ticker": "FDIG",
-"historyExists": false
-},
-{
-"ticker": "FDIS",
 "historyExists": false
 },
 {
@@ -4840,10 +4612,6 @@
 "historyExists": false
 },
 {
-"ticker": "FELG",
-"historyExists": false
-},
-{
 "ticker": "FELV",
 "historyExists": false
 },
@@ -4857,10 +4625,6 @@
 },
 {
 "ticker": "FEMR",
-"historyExists": false
-},
-{
-"ticker": "FEMS",
 "historyExists": false
 },
 {
@@ -5032,10 +4796,6 @@
 "historyExists": false
 },
 {
-"ticker": "FIIG",
-"historyExists": false
-},
-{
 "ticker": "FILL",
 "historyExists": false
 },
@@ -5101,10 +4861,6 @@
 },
 {
 "ticker": "FJUL",
-"historyExists": false
-},
-{
-"ticker": "FJUN",
 "historyExists": false
 },
 {
@@ -5216,10 +4972,6 @@
 "historyExists": false
 },
 {
-"ticker": "FLIN",
-"historyExists": false
-},
-{
 "ticker": "FLJH",
 "historyExists": false
 },
@@ -5256,10 +5008,6 @@
 "historyExists": false
 },
 {
-"ticker": "FLOT",
-"historyExists": false
-},
-{
 "ticker": "FLOW",
 "historyExists": false
 },
@@ -5277,10 +5025,6 @@
 },
 {
 "ticker": "FLRG",
-"historyExists": false
-},
-{
-"ticker": "FLRN",
 "historyExists": false
 },
 {
@@ -5424,14 +5168,6 @@
 "historyExists": false
 },
 {
-"ticker": "FNDF",
-"historyExists": false
-},
-{
-"ticker": "FNDX",
-"historyExists": false
-},
-{
 "ticker": "FNDX",
 "historyExists": false
 },
@@ -5568,10 +5304,6 @@
 "historyExists": false
 },
 {
-"ticker": "FSGS",
-"historyExists": false
-},
-{
 "ticker": "FSIG",
 "historyExists": false
 },
@@ -5624,10 +5356,6 @@
 "historyExists": false
 },
 {
-"ticker": "FTC",
-"historyExists": false
-},
-{
 "ticker": "FTCB",
 "historyExists": false
 },
@@ -5657,10 +5385,6 @@
 },
 {
 "ticker": "FTHF",
-"historyExists": false
-},
-{
-"ticker": "FTHI",
 "historyExists": false
 },
 {
@@ -5752,10 +5476,6 @@
 "historyExists": false
 },
 {
-"ticker": "FV",
-"historyExists": false
-},
-{
 "ticker": "FVAL",
 "historyExists": false
 },
@@ -5784,10 +5504,6 @@
 "historyExists": false
 },
 {
-"ticker": "FXG",
-"historyExists": false
-},
-{
 "ticker": "FXH",
 "historyExists": false
 },
@@ -5804,14 +5520,6 @@
 "historyExists": false
 },
 {
-"ticker": "FXN",
-"historyExists": false
-},
-{
-"ticker": "FXO",
-"historyExists": false
-},
-{
 "ticker": "FXO",
 "historyExists": false
 },
@@ -5821,10 +5529,6 @@
 },
 {
 "ticker": "FXR",
-"historyExists": false
-},
-{
-"ticker": "FXU",
 "historyExists": false
 },
 {
@@ -5845,10 +5549,6 @@
 },
 {
 "ticker": "FYLD",
-"historyExists": false
-},
-{
-"ticker": "FYT",
 "historyExists": false
 },
 {
@@ -5980,10 +5680,6 @@
 "historyExists": false
 },
 {
-"ticker": "GDXJ",
-"historyExists": false
-},
-{
 "ticker": "GEM",
 "historyExists": false
 },
@@ -6100,10 +5796,6 @@
 "historyExists": false
 },
 {
-"ticker": "GJUN",
-"historyExists": false
-},
-{
 "ticker": "GK",
 "historyExists": false
 },
@@ -6200,19 +5892,11 @@
 "historyExists": false
 },
 {
-"ticker": "GNMA",
-"historyExists": false
-},
-{
 "ticker": "GNOM",
 "historyExists": false
 },
 {
 "ticker": "GNOV",
-"historyExists": false
-},
-{
-"ticker": "GNR",
 "historyExists": false
 },
 {
@@ -6241,10 +5925,6 @@
 },
 {
 "ticker": "GOOX",
-"historyExists": false
-},
-{
-"ticker": "GOP",
 "historyExists": false
 },
 {
@@ -6296,10 +5976,6 @@
 "historyExists": false
 },
 {
-"ticker": "GQRE",
-"historyExists": false
-},
-{
 "ticker": "GREK",
 "historyExists": false
 },
@@ -6317,10 +5993,6 @@
 },
 {
 "ticker": "GROZ",
-"historyExists": false
-},
-{
-"ticker": "GRPM",
 "historyExists": false
 },
 {
@@ -6380,10 +6052,6 @@
 "historyExists": false
 },
 {
-"ticker": "GSJY",
-"historyExists": false
-},
-{
 "ticker": "GSLC",
 "historyExists": false
 },
@@ -6417,14 +6085,6 @@
 },
 {
 "ticker": "GTO",
-"historyExists": false
-},
-{
-"ticker": "GTO",
-"historyExists": false
-},
-{
-"ticker": "GTOS",
 "historyExists": false
 },
 {
@@ -6609,10 +6269,6 @@
 },
 {
 "ticker": "HEEM",
-"historyExists": false
-},
-{
-"ticker": "HEFA",
 "historyExists": false
 },
 {
@@ -6872,10 +6528,6 @@
 "historyExists": false
 },
 {
-"ticker": "HYG",
-"historyExists": false
-},
-{
 "ticker": "HYGH",
 "historyExists": false
 },
@@ -6905,10 +6557,6 @@
 },
 {
 "ticker": "HYLB",
-"historyExists": false
-},
-{
-"ticker": "HYLS",
 "historyExists": false
 },
 {
@@ -6981,10 +6629,6 @@
 },
 {
 "ticker": "IBAT",
-"historyExists": false
-},
-{
-"ticker": "IBB",
 "historyExists": false
 },
 {
@@ -7156,10 +6800,6 @@
 "historyExists": false
 },
 {
-"ticker": "IBMP",
-"historyExists": false
-},
-{
 "ticker": "IBMQ",
 "historyExists": false
 },
@@ -7292,10 +6932,6 @@
 "historyExists": false
 },
 {
-"ticker": "IDLV",
-"historyExists": false
-},
-{
 "ticker": "IDMO",
 "historyExists": false
 },
@@ -7308,15 +6944,7 @@
 "historyExists": false
 },
 {
-"ticker": "IDOG",
-"historyExists": false
-},
-{
 "ticker": "IDRV",
-"historyExists": false
-},
-{
-"ticker": "IDU",
 "historyExists": false
 },
 {
@@ -7337,10 +6965,6 @@
 },
 {
 "ticker": "IDVZ",
-"historyExists": false
-},
-{
-"ticker": "IDX",
 "historyExists": false
 },
 {
@@ -7393,14 +7017,6 @@
 },
 {
 "ticker": "IEZ",
-"historyExists": false
-},
-{
-"ticker": "IEZ",
-"historyExists": false
-},
-{
-"ticker": "IFGL",
 "historyExists": false
 },
 {
@@ -7460,15 +7076,7 @@
 "historyExists": false
 },
 {
-"ticker": "IGM",
-"historyExists": false
-},
-{
 "ticker": "IGME",
-"historyExists": false
-},
-{
-"ticker": "IGOV",
 "historyExists": false
 },
 {
@@ -7532,10 +7140,6 @@
 "historyExists": false
 },
 {
-"ticker": "IJH",
-"historyExists": false
-},
-{
 "ticker": "IJJ",
 "historyExists": false
 },
@@ -7553,14 +7157,6 @@
 },
 {
 "ticker": "IJT",
-"historyExists": false
-},
-{
-"ticker": "ILCB",
-"historyExists": false
-},
-{
-"ticker": "ILCB",
 "historyExists": false
 },
 {
@@ -7605,10 +7201,6 @@
 },
 {
 "ticker": "IMCG",
-"historyExists": false
-},
-{
-"ticker": "IMCV",
 "historyExists": false
 },
 {
@@ -7848,19 +7440,11 @@
 "historyExists": false
 },
 {
-"ticker": "ISCB",
-"historyExists": false
-},
-{
 "ticker": "ISCF",
 "historyExists": false
 },
 {
 "ticker": "ISCG",
-"historyExists": false
-},
-{
-"ticker": "ISCV",
 "historyExists": false
 },
 {
@@ -8008,10 +7592,6 @@
 "historyExists": false
 },
 {
-"ticker": "IVOG",
-"historyExists": false
-},
-{
 "ticker": "IVOL",
 "historyExists": false
 },
@@ -8033,10 +7613,6 @@
 },
 {
 "ticker": "IVV",
-"historyExists": false
-},
-{
-"ticker": "IVVB",
 "historyExists": false
 },
 {
@@ -8120,27 +7696,11 @@
 "historyExists": false
 },
 {
-"ticker": "IWS",
-"historyExists": false
-},
-{
 "ticker": "IWTR",
 "historyExists": false
 },
 {
 "ticker": "IWV",
-"historyExists": false
-},
-{
-"ticker": "IWV",
-"historyExists": false
-},
-{
-"ticker": "IWV",
-"historyExists": false
-},
-{
-"ticker": "IWX",
 "historyExists": false
 },
 {
@@ -8192,14 +7752,6 @@
 "historyExists": false
 },
 {
-"ticker": "IYG",
-"historyExists": false
-},
-{
-"ticker": "IYH",
-"historyExists": false
-},
-{
 "ticker": "IYH",
 "historyExists": false
 },
@@ -8213,10 +7765,6 @@
 },
 {
 "ticker": "IYLD",
-"historyExists": false
-},
-{
-"ticker": "IYM",
 "historyExists": false
 },
 {
@@ -8344,6 +7892,10 @@
 "historyExists": false
 },
 {
+"ticker": "JEPI",
+"historyExists": false
+},
+{
 "ticker": "JEPQ",
 "historyExists": false
 },
@@ -8449,10 +8001,6 @@
 },
 {
 "ticker": "JMBS",
-"historyExists": false
-},
-{
-"ticker": "JMEE",
 "historyExists": false
 },
 {
@@ -8684,15 +8232,7 @@
 "historyExists": false
 },
 {
-"ticker": "KBA",
-"historyExists": false
-},
-{
 "ticker": "KBAB",
-"historyExists": false
-},
-{
-"ticker": "KBE",
 "historyExists": false
 },
 {
@@ -8729,10 +8269,6 @@
 },
 {
 "ticker": "KCCA",
-"historyExists": false
-},
-{
-"ticker": "KCE",
 "historyExists": false
 },
 {
@@ -8848,10 +8384,6 @@
 "historyExists": false
 },
 {
-"ticker": "KNG",
-"historyExists": false
-},
-{
 "ticker": "KNGZ",
 "historyExists": false
 },
@@ -8892,10 +8424,6 @@
 "historyExists": false
 },
 {
-"ticker": "KOMP",
-"historyExists": false
-},
-{
 "ticker": "KONG",
 "historyExists": false
 },
@@ -8925,10 +8453,6 @@
 },
 {
 "ticker": "KRBN",
-"historyExists": false
-},
-{
-"ticker": "KRE",
 "historyExists": false
 },
 {
@@ -9668,10 +9192,6 @@
 "historyExists": false
 },
 {
-"ticker": "MDYG",
-"historyExists": false
-},
-{
 "ticker": "MDYV",
 "historyExists": false
 },
@@ -9828,10 +9348,6 @@
 "historyExists": false
 },
 {
-"ticker": "MINT",
-"historyExists": false
-},
-{
 "ticker": "MINV",
 "historyExists": false
 },
@@ -9908,10 +9424,6 @@
 "historyExists": false
 },
 {
-"ticker": "MMTM",
-"historyExists": false
-},
-{
 "ticker": "MNA",
 "historyExists": false
 },
@@ -9925,10 +9437,6 @@
 },
 {
 "ticker": "MNTL",
-"historyExists": false
-},
-{
-"ticker": "MOAT",
 "historyExists": false
 },
 {
@@ -10436,10 +9944,6 @@
 "historyExists": false
 },
 {
-"ticker": "NLR",
-"historyExists": false
-},
-{
 "ticker": "NMAR",
 "historyExists": false
 },
@@ -10453,14 +9957,6 @@
 },
 {
 "ticker": "NNOV",
-"historyExists": false
-},
-{
-"ticker": "NOBL",
-"historyExists": false
-},
-{
-"ticker": "NOBL",
 "historyExists": false
 },
 {
@@ -10676,10 +10172,6 @@
 "historyExists": false
 },
 {
-"ticker": "ODDS",
-"historyExists": false
-},
-{
 "ticker": "NZAC",
 "historyExists": false
 },
@@ -10761,6 +10253,10 @@
 },
 {
 "ticker": "OCTZ",
+"historyExists": false
+},
+{
+"ticker": "ODDS",
 "historyExists": false
 },
 {
@@ -10929,10 +10425,6 @@
 },
 {
 "ticker": "OZEM",
-"historyExists": false
-},
-{
-"ticker": "PAAA",
 "historyExists": false
 },
 {
@@ -11132,10 +10624,6 @@
 "historyExists": false
 },
 {
-"ticker": "PCY",
-"historyExists": false
-},
-{
 "ticker": "PDBA",
 "historyExists": false
 },
@@ -11169,10 +10657,6 @@
 },
 {
 "ticker": "PEVC",
-"historyExists": false
-},
-{
-"ticker": "PEX",
 "historyExists": false
 },
 {
@@ -11216,10 +10700,6 @@
 "historyExists": false
 },
 {
-"ticker": "PFFV",
-"historyExists": false
-},
-{
 "ticker": "PFI",
 "historyExists": false
 },
@@ -11233,10 +10713,6 @@
 },
 {
 "ticker": "PFLD",
-"historyExists": false
-},
-{
-"ticker": "PFM",
 "historyExists": false
 },
 {
@@ -11680,10 +11156,6 @@
 "historyExists": false
 },
 {
-"ticker": "PSK",
-"historyExists": false
-},
-{
 "ticker": "PSL",
 "historyExists": false
 },
@@ -11721,10 +11193,6 @@
 },
 {
 "ticker": "PSR",
-"historyExists": false
-},
-{
-"ticker": "PST",
 "historyExists": false
 },
 {
@@ -11801,10 +11269,6 @@
 },
 {
 "ticker": "PUTD",
-"historyExists": false
-},
-{
-"ticker": "PUTW",
 "historyExists": false
 },
 {
@@ -12056,10 +11520,6 @@
 "historyExists": false
 },
 {
-"ticker": "QJUN",
-"historyExists": false
-},
-{
 "ticker": "QLC",
 "historyExists": false
 },
@@ -12204,10 +11664,6 @@
 "historyExists": false
 },
 {
-"ticker": "QQQM",
-"historyExists": false
-},
-{
 "ticker": "QQQP",
 "historyExists": false
 },
@@ -12304,19 +11760,11 @@
 "historyExists": false
 },
 {
-"ticker": "QUAL",
-"historyExists": false
-},
-{
 "ticker": "QUBX",
 "historyExists": false
 },
 {
 "ticker": "QUP",
-"historyExists": false
-},
-{
-"ticker": "QUS",
 "historyExists": false
 },
 {
@@ -12516,10 +11964,6 @@
 "historyExists": false
 },
 {
-"ticker": "REZ",
-"historyExists": false
-},
-{
 "ticker": "RFCI",
 "historyExists": false
 },
@@ -12708,10 +12152,6 @@
 "historyExists": false
 },
 {
-"ticker": "ROM",
-"historyExists": false
-},
-{
 "ticker": "ROMO",
 "historyExists": false
 },
@@ -12756,10 +12196,6 @@
 "historyExists": false
 },
 {
-"ticker": "RSBT",
-"historyExists": false
-},
-{
 "ticker": "RSBY",
 "historyExists": false
 },
@@ -12781,10 +12217,6 @@
 },
 {
 "ticker": "RSMV",
-"historyExists": false
-},
-{
-"ticker": "RSP",
 "historyExists": false
 },
 {
@@ -12837,10 +12269,6 @@
 },
 {
 "ticker": "RSPT",
-"historyExists": false
-},
-{
-"ticker": "RSPU",
 "historyExists": false
 },
 {
@@ -12944,19 +12372,11 @@
 "historyExists": false
 },
 {
-"ticker": "RWX",
-"historyExists": false
-},
-{
 "ticker": "RXD",
 "historyExists": false
 },
 {
 "ticker": "RXI",
-"historyExists": false
-},
-{
-"ticker": "RXL",
 "historyExists": false
 },
 {
@@ -13009,10 +12429,6 @@
 },
 {
 "ticker": "SATO",
-"historyExists": false
-},
-{
-"ticker": "SAUG",
 "historyExists": false
 },
 {
@@ -13084,6 +12500,10 @@
 "historyExists": false
 },
 {
+"ticker": "SCHD",
+"historyExists": false
+},
+{
 "ticker": "SCHE",
 "historyExists": false
 },
@@ -13105,10 +12525,6 @@
 },
 {
 "ticker": "SCHJ",
-"historyExists": false
-},
-{
-"ticker": "SCHK",
 "historyExists": false
 },
 {
@@ -13152,10 +12568,6 @@
 "historyExists": false
 },
 {
-"ticker": "SCHZ",
-"historyExists": false
-},
-{
 "ticker": "SCIO",
 "historyExists": false
 },
@@ -13177,10 +12589,6 @@
 },
 {
 "ticker": "SCYB",
-"historyExists": false
-},
-{
-"ticker": "SCZ",
 "historyExists": false
 },
 {
@@ -13213,10 +12621,6 @@
 },
 {
 "ticker": "SDIV",
-"historyExists": false
-},
-{
-"ticker": "SDOG",
 "historyExists": false
 },
 {
@@ -13392,15 +12796,7 @@
 "historyExists": false
 },
 {
-"ticker": "SHE",
-"historyExists": false
-},
-{
 "ticker": "SHLD",
-"historyExists": false
-},
-{
-"ticker": "SHM",
 "historyExists": false
 },
 {
@@ -13425,10 +12821,6 @@
 },
 {
 "ticker": "SHUS",
-"historyExists": false
-},
-{
-"ticker": "SHV",
 "historyExists": false
 },
 {
@@ -13517,10 +12909,6 @@
 },
 {
 "ticker": "SJLD",
-"historyExists": false
-},
-{
-"ticker": "SJNK",
 "historyExists": false
 },
 {
@@ -13640,15 +13028,7 @@
 "historyExists": false
 },
 {
-"ticker": "SMH",
-"historyExists": false
-},
-{
 "ticker": "SMHX",
-"historyExists": false
-},
-{
-"ticker": "SMIG",
 "historyExists": false
 },
 {
@@ -13904,10 +13284,6 @@
 "historyExists": false
 },
 {
-"ticker": "SPHY",
-"historyExists": false
-},
-{
 "ticker": "SPIB",
 "historyExists": false
 },
@@ -13940,10 +13316,6 @@
 "historyExists": false
 },
 {
-"ticker": "SPMD",
-"historyExists": false
-},
-{
 "ticker": "SPMO",
 "historyExists": false
 },
@@ -13965,14 +13337,6 @@
 },
 {
 "ticker": "SPSK",
-"historyExists": false
-},
-{
-"ticker": "SPSM",
-"historyExists": false
-},
-{
-"ticker": "SPSM",
 "historyExists": false
 },
 {
@@ -14033,10 +13397,6 @@
 },
 {
 "ticker": "SPXE",
-"historyExists": false
-},
-{
-"ticker": "SPXL",
 "historyExists": false
 },
 {
@@ -14140,10 +13500,6 @@
 "historyExists": false
 },
 {
-"ticker": "SRLN",
-"historyExists": false
-},
-{
 "ticker": "SROI",
 "historyExists": false
 },
@@ -14165,10 +13521,6 @@
 },
 {
 "ticker": "SSG",
-"historyExists": false
-},
-{
-"ticker": "SSO",
 "historyExists": false
 },
 {
@@ -14213,14 +13565,6 @@
 },
 {
 "ticker": "STOT",
-"historyExists": false
-},
-{
-"ticker": "STOT",
-"historyExists": false
-},
-{
-"ticker": "STPZ",
 "historyExists": false
 },
 {
@@ -14372,10 +13716,6 @@
 "historyExists": false
 },
 {
-"ticker": "TAIL",
-"historyExists": false
-},
-{
 "ticker": "TAN",
 "historyExists": false
 },
@@ -14405,10 +13745,6 @@
 },
 {
 "ticker": "TAXX",
-"historyExists": false
-},
-{
-"ticker": "TBF",
 "historyExists": false
 },
 {
@@ -14493,10 +13829,6 @@
 },
 {
 "ticker": "TDSC",
-"historyExists": false
-},
-{
-"ticker": "TDTF",
 "historyExists": false
 },
 {
@@ -14676,14 +14008,6 @@
 "historyExists": false
 },
 {
-"ticker": "TIP",
-"historyExists": false
-},
-{
-"ticker": "TIPX",
-"historyExists": false
-},
-{
 "ticker": "TIPX",
 "historyExists": false
 },
@@ -14709,10 +14033,6 @@
 },
 {
 "ticker": "TLH",
-"historyExists": false
-},
-{
-"ticker": "TLT",
 "historyExists": false
 },
 {
@@ -14813,10 +14133,6 @@
 },
 {
 "ticker": "TOGA",
-"historyExists": false
-},
-{
-"ticker": "TOK",
 "historyExists": false
 },
 {
@@ -15060,10 +14376,6 @@
 "historyExists": false
 },
 {
-"ticker": "TUR",
-"historyExists": false
-},
-{
 "ticker": "TURF",
 "historyExists": false
 },
@@ -15116,10 +14428,6 @@
 "historyExists": false
 },
 {
-"ticker": "TYD",
-"historyExists": false
-},
-{
 "ticker": "TYLD",
 "historyExists": false
 },
@@ -15133,10 +14441,6 @@
 },
 {
 "ticker": "TZA",
-"historyExists": false
-},
-{
-"ticker": "UAE",
 "historyExists": false
 },
 {
@@ -15180,10 +14484,6 @@
 "historyExists": false
 },
 {
-"ticker": "UCON",
-"historyExists": false
-},
-{
 "ticker": "UCRD",
 "historyExists": false
 },
@@ -15201,10 +14501,6 @@
 },
 {
 "ticker": "UDIV",
-"historyExists": false
-},
-{
-"ticker": "UDOW",
 "historyExists": false
 },
 {
@@ -15248,10 +14544,6 @@
 "historyExists": false
 },
 {
-"ticker": "UJB",
-"historyExists": false
-},
-{
 "ticker": "UJUL",
 "historyExists": false
 },
@@ -15276,19 +14568,7 @@
 "historyExists": false
 },
 {
-"ticker": "UMAR",
-"historyExists": false
-},
-{
 "ticker": "UMAY",
-"historyExists": false
-},
-{
-"ticker": "UMAY",
-"historyExists": false
-},
-{
-"ticker": "UMDD",
 "historyExists": false
 },
 {
@@ -15352,10 +14632,6 @@
 "historyExists": false
 },
 {
-"ticker": "URA",
-"historyExists": false
-},
-{
 "ticker": "URAA",
 "historyExists": false
 },
@@ -15373,10 +14649,6 @@
 },
 {
 "ticker": "URNM",
-"historyExists": false
-},
-{
-"ticker": "URTH",
 "historyExists": false
 },
 {
@@ -15456,10 +14728,6 @@
 "historyExists": false
 },
 {
-"ticker": "USMV",
-"historyExists": false
-},
-{
 "ticker": "USNG",
 "historyExists": false
 },
@@ -15497,10 +14765,6 @@
 },
 {
 "ticker": "USSH",
-"historyExists": false
-},
-{
-"ticker": "UST",
 "historyExists": false
 },
 {
@@ -15616,15 +14880,7 @@
 "historyExists": false
 },
 {
-"ticker": "VB",
-"historyExists": false
-},
-{
 "ticker": "VBIL",
-"historyExists": false
-},
-{
-"ticker": "VBK",
 "historyExists": false
 },
 {
@@ -15641,10 +14897,6 @@
 },
 {
 "ticker": "VCEB",
-"historyExists": false
-},
-{
-"ticker": "VCIT",
 "historyExists": false
 },
 {
@@ -15684,15 +14936,7 @@
 "historyExists": false
 },
 {
-"ticker": "VDE",
-"historyExists": false
-},
-{
 "ticker": "VEA",
-"historyExists": false
-},
-{
-"ticker": "VEGA",
 "historyExists": false
 },
 {
@@ -15721,14 +14965,6 @@
 },
 {
 "ticker": "VEU",
-"historyExists": false
-},
-{
-"ticker": "VEU",
-"historyExists": false
-},
-{
-"ticker": "VFH",
 "historyExists": false
 },
 {
@@ -15768,19 +15004,11 @@
 "historyExists": false
 },
 {
-"ticker": "VGK",
-"historyExists": false
-},
-{
 "ticker": "VGLT",
 "historyExists": false
 },
 {
 "ticker": "VGMS",
-"historyExists": false
-},
-{
-"ticker": "VGSH",
 "historyExists": false
 },
 {
@@ -15828,10 +15056,6 @@
 "historyExists": false
 },
 {
-"ticker": "VIOO",
-"historyExists": false
-},
-{
 "ticker": "VIOV",
 "historyExists": false
 },
@@ -15868,10 +15092,6 @@
 "historyExists": false
 },
 {
-"ticker": "VMBS",
-"historyExists": false
-},
-{
 "ticker": "VNAM",
 "historyExists": false
 },
@@ -15896,27 +15116,11 @@
 "historyExists": false
 },
 {
-"ticker": "VNQI",
-"historyExists": false
-},
-{
 "ticker": "VNSE",
 "historyExists": false
 },
 {
 "ticker": "VO",
-"historyExists": false
-},
-{
-"ticker": "VO",
-"historyExists": false
-},
-{
-"ticker": "VOE",
-"historyExists": false
-},
-{
-"ticker": "VOE",
 "historyExists": false
 },
 {
@@ -15952,10 +15156,6 @@
 "historyExists": false
 },
 {
-"ticker": "VOOV",
-"historyExists": false
-},
-{
 "ticker": "VOT",
 "historyExists": false
 },
@@ -15977,10 +15177,6 @@
 },
 {
 "ticker": "VPLS",
-"historyExists": false
-},
-{
-"ticker": "VPU",
 "historyExists": false
 },
 {
@@ -16088,15 +15284,7 @@
 "historyExists": false
 },
 {
-"ticker": "VTWO",
-"historyExists": false
-},
-{
 "ticker": "VTWV",
-"historyExists": false
-},
-{
-"ticker": "VUG",
 "historyExists": false
 },
 {
@@ -16109,10 +15297,6 @@
 },
 {
 "ticker": "VUSE",
-"historyExists": false
-},
-{
-"ticker": "VV",
 "historyExists": false
 },
 {
@@ -16352,10 +15536,6 @@
 "historyExists": false
 },
 {
-"ticker": "XAR",
-"historyExists": false
-},
-{
 "ticker": "XAUG",
 "historyExists": false
 },
@@ -16369,10 +15549,6 @@
 },
 {
 "ticker": "XBB",
-"historyExists": false
-},
-{
-"ticker": "XBI",
 "historyExists": false
 },
 {
@@ -16480,18 +15656,6 @@
 "historyExists": false
 },
 {
-"ticker": "XHB",
-"historyExists": false
-},
-{
-"ticker": "XHE",
-"historyExists": false
-},
-{
-"ticker": "XHE",
-"historyExists": false
-},
-{
 "ticker": "XHE",
 "historyExists": false
 },
@@ -16588,10 +15752,6 @@
 "historyExists": false
 },
 {
-"ticker": "XLE",
-"historyExists": false
-},
-{
 "ticker": "XLF",
 "historyExists": false
 },
@@ -16601,10 +15761,6 @@
 },
 {
 "ticker": "XLI",
-"historyExists": false
-},
-{
-"ticker": "XLK",
 "historyExists": false
 },
 {
@@ -16809,14 +15965,6 @@
 },
 {
 "ticker": "XTL",
-"historyExists": false
-},
-{
-"ticker": "XTL",
-"historyExists": false
-},
-{
-"ticker": "XTN",
 "historyExists": false
 },
 {
@@ -17089,14 +16237,6 @@
 },
 {
 "ticker": "ZZZ",
-"historyExists": false
-},
-{
-"ticker": "JEPI",
-"historyExists": false
-},
-{
-"ticker": "SCHD",
 "historyExists": false
 }
 ]
